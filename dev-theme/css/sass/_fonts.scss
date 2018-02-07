@@ -1,0 +1,21 @@
+//  font declarations
+
+@font-face {
+    font-family: 'Avenir-Medium';
+    src: url('../font/Avenir-Medium-webfont.eot');
+    src: url('../font/Avenir-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/Avenir-Medium-webfont.woff') format('woff'),
+    url('../font/Avenir-Medium-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir-Heavy';
+    src: url('../font/Avenir-Heavy-webfont.eot');
+    src: url('../font/Avenir-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/Avenir-Heavy-webfont.woff') format('woff'),
+    url('../font/Avenir-Heavy-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
