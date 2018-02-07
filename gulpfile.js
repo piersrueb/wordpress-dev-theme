@@ -4,7 +4,7 @@ const gulp = require('gulp');
 const sass = require('gulp-sass');
 const autoprefixer = require('gulp-autoprefixer');
 const zip = require('gulp-zip');
-var themeName = 'nick_gray';
+var themeName = 'dev-theme';
 
 //  vendor prefixes
 

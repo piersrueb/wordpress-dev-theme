@@ -14,12 +14,4 @@
 		<?php wp_head(); ?>
 	</head>
 	<body>
-		<header>
-			<?php if (is_page( 'splash' )):?>
-				<!--  no logo or menu  -->
-			<?php else: ?>
-				<div class="loader" id="loader-1"></div>
-				<?php wp_nav_menu( array( 'theme_location' => 'primary-menu' ) ); ?>
-				<?php the_custom_logo(); ?>
-			<?php endif; ?>
-		</header>
+		<header></header>
