@@ -1,4 +1,4 @@
-# Wordpress Dev Theme
+## Wordpress Dev Theme
 
 Empty Wordpress theme for development.
 
