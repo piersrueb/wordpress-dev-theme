@@ -4,12 +4,10 @@ Empty Wordpress theme for development.
 
 ### Gulp Stuff
 
-You will need to install the following plugins as dependancies to run the Gulp tasks. Navigate to the root of the theme in your terminal and run these commands.
+You will need to install dependancies to run the Gulp tasks. Navigate to the root of the theme in your terminal and run the following.
 
 ```
-npm install --global gulp
-npm install gulp-sass --save-dev
-npm install gulp-autoprefixer --save-dev
+npm install
 ```
 
 Run Gulp to process your SASS and start the watch task.

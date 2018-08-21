@@ -43,4 +43,5 @@ Thumbs.db
 ######################
 assets/
 .sass-cache/
+node_modules/
 zip/

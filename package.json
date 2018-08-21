@@ -1,7 +1,7 @@
 {
-  "name": "nick_gray",
+  "name": "dev_theme",
   "version": "1.0.0",
-  "description": "Nick Gray Wordpress",
+  "description": "Wordpress Dev Theme",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

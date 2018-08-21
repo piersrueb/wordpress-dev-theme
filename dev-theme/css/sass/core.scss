@@ -33,8 +33,8 @@ a:visited { text-decoration: none; color: $sc; }
 a:hover { text-decoration: none; color: $pc; }
 a img { border: none; }
 
-/*  media queries  */
+///  media queries
 
-//  960px max
+@media all and (max-width: $mw) {
 
-@media all and (max-width: $mw) {}
+}
