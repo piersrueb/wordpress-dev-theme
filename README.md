@@ -23,3 +23,20 @@ PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values fr
 ### Normalize CSS Reset
 
 This template uses Normalize.css. This makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+
+```
+
+   |\          .(' *) ' .
+   | \        '.*) WP )*
+   |(*\      .*(// .*) .
+   |___\       // (. '*
+   ((("'\     // '  * .
+   ((c'7')   /\)
+   ((((^))  /  \
+ .-')))(((-'   /
+    (((()) __/'
+     )))( |
+      (()
+       ))
+
+```
